@@ -32,7 +32,7 @@ namespace LeeJaeseung_ex3
         }
         public static void Plus(double x, double y, out double z)
         {
-            z = x + y;            
+            z = x + y;
         }
     }    
 }
