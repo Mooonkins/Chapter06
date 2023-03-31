@@ -28,13 +28,11 @@ namespace LeeJaeseung_ex3
         }
         public static void Plus(int a, int b, out int c)
         {
-            c = a + b;
-            /*return c;*/
+            c = a + b;            
         }
         public static void Plus(double x, double y, out double z)
         {
-            z = x + y;
-            /*return z;*/
+            z = x + y;            
         }
     }    
 }
